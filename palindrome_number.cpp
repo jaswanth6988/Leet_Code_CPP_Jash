@@ -1,3 +1,5 @@
+#this is the the 9th quetion on the leet code palindrome number check which has a 9ms of runtime for the below code of mine 
+
 class Solution {
 public:
     bool isPalindrome(int x) {
